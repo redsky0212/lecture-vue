@@ -33,3 +33,16 @@
  - model, view, controller
 
 * 폴더구조
+ - 예제 폴더구조에서 controller를 하나 생성해서 사용함.
+ - lite-server는 프로젝트내에 node module로 설치 
+
+* 기타 순수 스크립트 코딩작업....
+
+* MVVM 패턴
+ - 모델, 뷰, 뷰모델(뷰와모델사이에 존재 ---> 뷰에 적합한형태로 가공해서 내려줌.)
+ - 뷰모델이 변경되면 뷰에 자동갱신.
+ - Object.defineProperty()의 set, get으로 대략 예제
+   
+* VUE.js 설치
+ - CDN 주소로 삽입방법
+ - NPM 으로 다운받아서 사용.
