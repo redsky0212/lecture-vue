@@ -44,5 +44,6 @@
  - Object.defineProperty()의 set, get으로 대략 예제
    
 * VUE.js 설치
- - CDN 주소로 삽입방법
+ - CDN 주소로 삽입방법.
  - NPM 으로 다운받아서 사용.
+ - 우선 CDN으로 받아서 사용하는 방법으로 해봄.
